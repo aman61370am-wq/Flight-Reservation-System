@@ -1,6 +1,6 @@
 # ✈️ Flight Reservation System
 
-**Author:** Vandana Tanwar  
+**Author:** Aman Kumar  
 **Project Type:** DBMS / Oracle SQL  
 **Date Generated:** 2025-10-29
 
